@@ -8,4 +8,4 @@ I am a developer and an OIer.
 
 [Luogu](https://www.luogu.com.cn)
 
-[My Luogu Homepage](https://www.luogu.com.cn/users/48737)
+[My Luogu Homepage](https://www.luogu.com.cn/user/48737)
